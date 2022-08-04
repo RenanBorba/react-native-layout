@@ -66,7 +66,7 @@ Aplicação Front-end Mobile desenvolvida em React Native com o design Flexbox, 
 </ul>
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interface principal:
+## :mega: ⬇ Abaixo, as principais estruturas e interface principal:
 
 <br><br><br>
 
