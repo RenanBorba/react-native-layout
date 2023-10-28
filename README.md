@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native com o design Flexbox, para layout de portfólio de Loja de Vestuário feminino e empresas de diversos segmentos, com foco na interface do Perfil do vendedor independente, permitindo a visualização dos demais itens (ScrollView).
+Aplicação Front-end Mobile desenvolvida em React Native com o design Flexbox, para layout de portfólio de Loja de Vestuário feminino e empresas de diversos segmentos, permitindo a visualização dos demais itens ao rolar a tela do app (ScrollView).
 
 <br><br>
 
