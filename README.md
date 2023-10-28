@@ -12,7 +12,7 @@
 
 <br>
 
-![home](https://github.com/RenanBorba/react-native-layout/assets/48495838/99654eee-09ce-4a3d-98ee-98421f951a58)
+![home](https://github.com/RenanBorba/react-native-layout/assets/48495838/480ef55d-ad03-4360-a87f-29620f6cbc4e)
 
 </div>
 
